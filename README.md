@@ -95,8 +95,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahebdhara&show_icons=true&theme=react&hide_border=true&bg_color=001219" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahebdhara&layout=compact&theme=react&hide_border=true&bg_color=001219" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SAHEBDHARA&show_icons=true&theme=react&hide_border=true&bg_color=001219" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAHEBDHARA&layout=compact&theme=react&hide_border=true&bg_color=001219" />
 </p>
 
 ---
@@ -104,7 +104,7 @@
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=sahebdhara&bg_color=0D1117&color=ff0a54&line=ff5c8a&point=fbb1bd&hide_border=true" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=SAHEBDHARA&bg_color=0D1117&color=ff0a54&line=ff5c8a&point=fbb1bd&hide_border=true" />
 </p>
 
 ---
